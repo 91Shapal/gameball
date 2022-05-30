@@ -10,13 +10,13 @@ var paddleWidth = 105;
 var paddleX = (canvas.width-paddleWidth)/2;
 var rightPressed = false;
 var leftPressed = false;
-var brickRowCount = 6;
-var brickColumnCount = 4;
+var brickRowCount = 7;
+var brickColumnCount = 5;
 var brickWidth = 70;
 var brickHeight = 20;
 var brickPadding = 10;
 var brickOffsetTop = 50;
-var brickOffsetLeft = 170;
+var brickOffsetLeft = 110;
 var score = 0;
 
 var bricks = [];
